@@ -1,0 +1,161 @@
+body {
+    font-family: 'Geo';
+    margin: 5;
+    padding: 5;
+    background-color: #008cff;
+    color: #ffffff;
+    text-align: center;
+  background-image: url(https://libraryofruina.wiki.gg/images/The_Library_-_Floor_of_Social_Sciences.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+   background-size: cover;
+}
+/* Header Styles */
+
+@font-face {
+    font-family: 'Geo';
+    src: url(c:\Users\sumad-en_k\Downloads\Geo-Regular.ttf);
+}
+.avatar {
+    vertical-align: middle;
+    width: 500px;
+    height: 500px;
+    border-radius: 500%;
+  }
+
+/* Navigation Styles */
+nav ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Main Content Styles */
+p {
+  text-align: center;
+  font-family: 'Geo';
+}
+.Container{
+    background: rgba(80, 80, 74, 0.534);
+    width: 900px;
+    max-width: 1100px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 40px;
+    box-shadow: 0 4px 20px color(srgb rgb(0, 0, 0) rgb(10, 10, 10) rgb(10, 10, 10));
+    transition: all 0.4s ease;
+
+}
+.Summary {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #008cff;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+.Info {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #008cff;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+.Name {
+  font-family: 'Geo';
+  width: 50%;
+  margin: 0px auto;
+  padding: 20px;
+  background-color: #747070bb;
+  color: #3d00a0;
+  text-align: center;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.466);
+}
+  .Education {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #008cff;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+.Experience {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e70000; 
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+.Skills {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e70000;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+.Language {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e70000;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+.Projects {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e70000;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+.References {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 20px;
+    background-color: #050000f3;
+    color: #e70000;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+.Note {
+    font-family: 'Geo';
+    width: 50%;
+    margin: 0px auto;
+    padding: 10px;
+    background-color: #050000f3;
+    color: #a200ff;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
